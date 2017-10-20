@@ -1,0 +1,1494 @@
+﻿Log file open, 10/18/17 22:01:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MOBA_Minion_AI
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-454792143) SRandInit(-454792143).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173035
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.19-02.01.06:174][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.19-02.01.06:174][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.19-02.01.06:225][  0]LogInit: Computer: CHRISTOPHER-PC
+[2017.10.19-02.01.06:225][  0]LogInit: User: Christopher
+[2017.10.19-02.01.06:225][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.19-02.01.06:225][  0]LogInit: High frequency timer resolution =2.435774 MHz
+[2017.10.19-02.01.06:225][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.19-02.01.06:225][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.19-02.01.06:225][  0]LogMemory: Process Physical Memory: 278.80 MB used, 278.80 MB peak
+[2017.10.19-02.01.06:225][  0]LogMemory: Process Virtual Memory: 282.26 MB used, 282.26 MB peak
+[2017.10.19-02.01.06:225][  0]LogMemory: Physical Memory: 3904.36 MB used,  4199.91 MB free, 8104.27 MB total
+[2017.10.19-02.01.06:225][  0]LogMemory: Virtual Memory: 677.05 MB used,  4199.91 MB free, 134217728.00 MB total
+[2017.10.19-02.01.06:375][  0]LogInit: Using OS detected language (en-US).
+[2017.10.19-02.01.06:375][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.19-02.01.06:577][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.19-02.01.09:538][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.19-02.01.10:191][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2017.10.19-02.01.10:191][  0]LogD3D11RHI:       2019/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.19-02.01.10:197][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.10.19-02.01.10:197][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.19-02.01.10:198][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.19-02.01.10:198][  0]LogD3D11RHI:       0/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.19-02.01.10:198][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.19-02.01.10:203][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.19-02.01.10:203][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.19-02.01.10:203][  0]LogWindows: EnumDisplayDevices:
+[2017.10.19-02.01.10:203][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.10.19-02.01.10:204][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.10.19-02.01.10:204][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.10.19-02.01.10:204][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.19-02.01.10:204][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2017.10.19-02.01.10:204][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.19-02.01.10:204][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.19-02.01.10:204][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.19-02.01.10:804][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.19-02.01.10:848][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.19-02.01.10:848][  0]LogShaderCompilers: Guid format shader working directory is -78 characters bigger than the processId version (../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Intermediate/Shaders/WorkingDirectory/9124/).
+[2017.10.19-02.01.10:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Christopher/AppData/Local/Temp/UnrealShaderWorkingDir/531386D0438BCAF654AC848F13F101CE/'.
+[2017.10.19-02.01.10:849][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.19-02.01.13:792][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.19-02.01.13:841][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.19-02.01.13:890][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.19-02.01.13:939][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.19-02.01.14:005][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.19-02.01.14:054][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.19-02.01.14:105][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.19-02.01.14:154][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.19-02.01.14:198][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.19-02.01.14:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.19-02.01.14:312][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.19-02.01.14:361][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.19-02.01.14:409][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.19-02.01.14:458][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.19-02.01.14:506][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.19-02.01.14:604][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.19-02.01.14:604][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.19-02.01.14:641][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.19-02.01.14:770][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.19-02.01.14:799][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.19-02.01.14:848][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.19-02.01.14:896][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.19-02.01.14:944][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.19-02.01.15:006][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.19-02.01.15:006][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.19-02.01.15:499][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.19-02.01.15:991][  0]LogDerivedDataCache: Loaded boot cache 0.49s 93MB C:/Users/Christopher/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.19-02.01.15:991][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Christopher/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.19-02.01.15:991][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.19-02.01.15:991][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.19-02.01.15:991][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.19-02.01.15:992][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.19-02.01.16:008][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.19-02.01.16:020][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Christopher/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.19-02.01.16:030][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.19-02.01.16:030][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.19-02.01.16:059][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.19-02.01.16:059][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.19-02.01.17:358][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2017.10.19-02.01.17:480][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.19-02.01.17:901][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.19-02.01.17:942][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.19-02.01.17:942][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.19-02.01.17:942][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.19-02.01.17:942][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.19-02.01.17:942][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.19-02.01.17:943][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.19-02.01.18:425][  0]LogNetVersion: MOBA_Minion_AI , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3386041323)
+[2017.10.19-02.01.18:712][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.109366 seconds
+[2017.10.19-02.01.18:721][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.19-02.01.18:721][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.19-02.01.18:721][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.19-02.01.18:781][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.19-02.01.45:388][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.19-02.01.45:427][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.19-02.01.46:310][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.19-02.01.46:727][  0]SourceControl: Source control is disabled
+[2017.10.19-02.01.46:727][  0]SourceControl: Source control is disabled
+[2017.10.19-02.01.46:774][  0]SourceControl: Source control is disabled
+[2017.10.19-02.01.46:821][  0]SourceControl: Source control is disabled
+[2017.10.19-02.01.47:649][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.19-02.01.47:890][  0]LogOcInput: OculusInput pre-init called
+[2017.10.19-02.01.48:172][  0]LogEngine: Initializing Engine...
+[2017.10.19-02.01.48:174][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.19-02.01.48:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.19-02.01.48:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.19-02.01.48:584][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.19-02.01.48:590][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.19-02.01.48:608][  0]LogInit: FAudioDevice initialized.
+[2017.10.19-02.01.48:894][  0]LogDerivedDataCache: Saved boot cache 0.29s 93MB C:/Users/Christopher/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.19-02.01.48:914][  0]LogInit: Texture streaming: Enabled
+[2017.10.19-02.01.49:023][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.19-02.01.49:330][  0]LogInit: Transaction tracking system initialized
+[2017.10.19-02.01.49:626][  0]BlueprintLog: New page: Editor Load
+[2017.10.19-02.01.50:507][  0]LocalizationService: Localization service is disabled
+[2017.10.19-02.01.51:237][  0]LogConsoleResponse: Display: 
+[2017.10.19-02.01.51:420][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.19-02.01.51:420][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.19-02.01.51:420][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.19-02.01.51:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/' took 0.01s
+[2017.10.19-02.01.52:689][  0]SourceControl: Source control is disabled
+[2017.10.19-02.01.52:690][  0]LightingResults: New page: Lighting Build
+[2017.10.19-02.01.52:730][  0]MapCheck: New page: Map Check
+[2017.10.19-02.01.52:730][  0]LightingResults: New page: Lighting Build
+[2017.10.19-02.01.53:697][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2017.10.19-02.01.53:697][  0]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2017.10.19-02.01.53:697][  0]LogTexture: Display: Building textures: HQ_Lightmap2_6 (AutoDXT, 64X64)
+[2017.10.19-02.01.53:697][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X32)
+[2017.10.19-02.01.54:092][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.19-02.01.54:119][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.10.19-02.01.54:132][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.19-02.01.54:182][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.19-02.01.54:276][  0]MapCheck: Warning: CharacterMesh0 SkeletalMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0 : Externally referenced 
+[2017.10.19-02.01.54:276][  0]MapCheck: Warning: StaticMeshComponent0 StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Floor_1.StaticMeshComponent0 : Externally referenced 
+[2017.10.19-02.01.54:276][  0]MapCheck: Warning: ThirdPerson_AnimBP_C_0 ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_0 : Externally referenced 
+[2017.10.19-02.01.54:276][  0]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 93.478ms to complete.
+[2017.10.19-02.01.54:322][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.632
+[2017.10.19-02.01.54:518][  0]LogCollectionManager: Loaded 0 collections in 0.001805 seconds
+[2017.10.19-02.01.54:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Collections/' took 0.01s
+[2017.10.19-02.01.54:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/Developers/Christopher/Collections/' took 0.01s
+[2017.10.19-02.01.54:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/Collections/' took 0.01s
+[2017.10.19-02.01.54:596][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.19-02.01.54:605][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2386 classes and 500 folders.
+[2017.10.19-02.01.54:684][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.19-02.01.55:414][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.19-02.01.55:456][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.19-02.01.55:481][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.19-02.01.55:483][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.19-02.01.55:552][  0]LogSlate: Took 0.063281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.19-02.01.55:683][  0]LogRenderer: Reallocating scene render targets to support 1004x476 Format 10 NumSamples 1 (Frame:1).
+[2017.10.19-02.01.55:929][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.19-02.01.55:929][  0]LogLoad: (Engine Initialization) Total time: 52.19 seconds
+[2017.10.19-02.01.55:929][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.19-02.01.55:929][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.19-02.01.55:929][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.19-02.01.56:306][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.19-02.01.56:609][  1]LogAssetRegistry: Asset discovery search completed in 39.2726 seconds
+[2017.10.19-02.01.56:610][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.19-02.01.56:610][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2017.10.19-02.01.57:270][  3]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.19-02.02.00:607][ 13]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.19-02.03.50:128][407]MapCheck: New page: Map Check
+[2017.10.19-02.03.50:250][407]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.19-02.03.50:250][407]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.19-02.03.50:922][407]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.10.19-02.03.51:050][407]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.10.19-02.03.51:056][407]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.10.19-02.03.51:062][407]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2017.10.19-02.03.51:071][407]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2017.10.19-02.03.51:078][407]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.10.19-02.03.53:035][407]TextureStreamingBuild: Display: Compiling optional shaders took 2.140 seconds.
+[2017.10.19-02.03.53:110][407]LogLevel: Display: Export Material TexCoord Scales took 0.075 seconds.
+[2017.10.19-02.03.53:135][407]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2017.10.19-02.03.53:278][407]LightingResults: New page: Lighting Build - Oct 18, 2017, 6:03:53 PM
+[2017.10.19-02.03.53:518][407]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.19-02.03.53:726][407]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.19-02.03.54:221][407]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.19-02.03.58:679][407]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2017.10.19-02.03.59:142][407]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2017.10.19-02.04.05:398][407]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.19-02.04.05:398][407]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9124
+[2017.10.19-02.04.12:624][407]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.19-02.04.12:650][407]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.19-02.04.12:650][407]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.19-02.04.12:650][407]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.19-02.04.12:650][407]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.19-02.04.13:245][407]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.19-02.04.13:246][407]MapCheck: New page: ThirdPersonExampleMap - Oct 18, 2017, 6:04:13 PM
+[2017.10.19-02.04.13:311][407]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2017.10.19-02.04.13:373][407]MapCheck: Warning: ThirdPersonCharacter_167 SkeletalMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0 : Externally referenced 
+[2017.10.19-02.04.13:373][407]MapCheck: Warning: Floor_1 StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Floor_1.StaticMeshComponent0 : Externally referenced 
+[2017.10.19-02.04.13:373][407]MapCheck: Warning: ThirdPerson_AnimBP_C_0 ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_0 : Externally referenced 
+[2017.10.19-02.04.13:373][407]MapCheck: Map check complete: 1 Error(s), 3 Warning(s), took 127.506ms to complete.
+[2017.10.19-02.04.13:396][407]LogEditorBuildUtils: Build time 0:23
+[2017.10.19-02.04.21:914][798]Job is a success!
+[2017.10.19-02.04.22:043][799]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.19-02.04.22:392][799]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.10.19-02.04.22:392][799]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.10.19-02.04.22:392][799]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.10.19-02.04.22:392][799]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.10.19-02.04.22:392][799]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.10.19-02.04.22:392][799]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.10.19-02.04.22:502][799]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.10.19-02.04.22:502][799]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2017.10.19-02.04.22:996][799]Lightmass on CHRISTOPHER-PC: 6.72 sec total, 252 ms importing, 115 ms setup, 1.81 sec photons, 4.19 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 29.1 sec total, 3.52 sec processing.
+[2017.10.19-02.04.23:017][799]LogStaticLightingSystem: Illumination: 29.7 sec (219 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2017.10.19-02.04.23:017][799]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.10.19-02.04.23:017][799]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.10.19-02.04.23:494][799]DumpUnbuiltLightIteractions
+[2017.10.19-02.04.23:494][799]Lights with unbuilt interactions: 0
+[2017.10.19-02.04.23:494][799]
+[2017.10.19-02.04.23:494][799]Primitives with unbuilt interactions: 0
+[2017.10.19-02.04.23:536][800]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.19-02.04.23:537][800]MapCheck: New page: ThirdPersonExampleMap - Oct 18, 2017, 6:04:23 PM
+[2017.10.19-02.04.23:644][800]MapCheck: Warning: ThirdPersonCharacter_167 SkeletalMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0 : Externally referenced 
+[2017.10.19-02.04.23:645][800]MapCheck: Warning: Floor_1 StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Floor_1.StaticMeshComponent0 : Externally referenced 
+[2017.10.19-02.04.23:645][800]MapCheck: Warning: ThirdPerson_AnimBP_C_0 ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CharacterMesh0.ThirdPerson_AnimBP_C_0 : Externally referenced 
+[2017.10.19-02.04.23:645][800]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 108.465ms to complete.
+[2017.10.19-02.04.31:382][583]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.19-02.04.31:499][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.19-02.04.31:514][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.19-02.04.31:562][583]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2017, 6:04:31 PM)
+[2017.10.19-02.04.31:581][583]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.19-02.04.31:687][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106533s)
+[2017.10.19-02.04.31:688][583]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.19-02.04.31:688][583]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2017.10.19-02.04.31:702][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.129069s)
+[2017.10.19-02.04.31:735][583]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.19-02.04.31:749][583]LogInit: FAudioDevice initialized.
+[2017.10.19-02.04.32:536][583]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2017.10.19-02.04.32:694][583]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.18-22.04.32
+[2017.10.19-02.04.32:739][583]LogWorld: Bringing up level for play took: 0.057195
+[2017.10.19-02.04.32:969][583]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.10.19-02.04.32:985][583]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.19-02.04.32:985][583]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.19-02.04.32:985][583]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.19-02.04.33:057][583]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.19-02.04.33:074][583]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.987
+[2017.10.19-02.04.33:074][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.19-02.04.35:127][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:137][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.35:148][765]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.35:148][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:149][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:149][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.35:149][765]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.35:149][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:151][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:151][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.35:151][765]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.35:151][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:152][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:152][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.35:153][765]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.35:153][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:154][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:154][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_4
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.35:154][765]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.35:154][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:156][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:156][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_5
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.35:156][765]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.35:156][765]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.35:251][773]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_0] Waypoint
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_0] Waypoint2
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_0] Waypoint3
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_0] Waypoint4
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_0] Waypoint5
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_1] Waypoint6
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_1] Waypoint7
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_1] Waypoint8
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_1] Waypoint9
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_1] Waypoint10
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_2] Waypoint11
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_2] Waypoint12
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_2] Waypoint13
+[2017.10.19-02.04.35:252][773]LogBlueprintUserMessages: [Minion_C_2] Waypoint14
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_2] Waypoint15
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_3] Waypoint5
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_3] Waypoint4
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_3] Waypoint3
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_3] Waypoint2
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_3] Waypoint
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_4] Waypoint10
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_4] Waypoint9
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_4] Waypoint8
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_4] Waypoint7
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_4] Waypoint6
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_5] Waypoint15
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_5] Waypoint14
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_5] Waypoint13
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_5] Waypoint12
+[2017.10.19-02.04.35:253][773]LogBlueprintUserMessages: [Minion_C_5] Waypoint11
+[2017.10.19-02.04.36:032][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:032][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_6
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.36:032][854]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.36:032][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:033][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:033][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_7
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.36:033][854]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.36:034][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:058][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:058][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_8
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.36:058][854]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.36:058][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:060][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:060][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_9
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.36:060][854]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.36:060][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:062][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:062][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_10
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.36:062][854]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.36:062][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:063][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:063][854]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_11
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.36:063][854]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.36:063][854]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_6] Waypoint
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_6] Waypoint2
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_6] Waypoint3
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_6] Waypoint4
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_6] Waypoint5
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_7] Waypoint6
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_7] Waypoint7
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_7] Waypoint8
+[2017.10.19-02.04.36:227][872]LogBlueprintUserMessages: [Minion_C_7] Waypoint9
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_7] Waypoint10
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_8] Waypoint11
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_8] Waypoint12
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_8] Waypoint13
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_8] Waypoint14
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_8] Waypoint15
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_9] Waypoint5
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_9] Waypoint4
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_9] Waypoint3
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_9] Waypoint2
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_9] Waypoint
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_10] Waypoint10
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_10] Waypoint9
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_10] Waypoint8
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_10] Waypoint7
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_10] Waypoint6
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_11] Waypoint15
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_11] Waypoint14
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_11] Waypoint13
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_11] Waypoint12
+[2017.10.19-02.04.36:228][872]LogBlueprintUserMessages: [Minion_C_11] Waypoint11
+[2017.10.19-02.04.37:039][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:039][960]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_12
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.37:039][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.37:039][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:040][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:041][960]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_13
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.37:041][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.37:041][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:042][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:042][960]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_14
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.37:042][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.37:042][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:044][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:044][960]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_15
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.37:045][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.37:045][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:046][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:046][960]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_16
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.37:046][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.37:046][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:048][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:048][960]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_17
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.37:048][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.37:048][960]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [Minion_C_12] Waypoint
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [Minion_C_12] Waypoint2
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [Minion_C_12] Waypoint3
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [Minion_C_12] Waypoint4
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [Minion_C_12] Waypoint5
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [Minion_C_13] Waypoint6
+[2017.10.19-02.04.37:236][980]LogBlueprintUserMessages: [Minion_C_13] Waypoint7
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_13] Waypoint8
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_13] Waypoint9
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_13] Waypoint10
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_14] Waypoint11
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_14] Waypoint12
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_14] Waypoint13
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_14] Waypoint14
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_14] Waypoint15
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_15] Waypoint5
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_15] Waypoint4
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_15] Waypoint3
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_15] Waypoint2
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_15] Waypoint
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_16] Waypoint10
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_16] Waypoint9
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_16] Waypoint8
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_16] Waypoint7
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_16] Waypoint6
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_17] Waypoint15
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_17] Waypoint14
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_17] Waypoint13
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_17] Waypoint12
+[2017.10.19-02.04.37:237][980]LogBlueprintUserMessages: [Minion_C_17] Waypoint11
+[2017.10.19-02.04.38:036][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:036][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_18
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.38:036][ 67]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.38:036][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:038][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:038][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_19
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.38:038][ 67]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.38:038][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:040][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:040][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_20
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.38:040][ 67]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.38:040][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:041][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:041][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_21
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.38:042][ 67]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.38:042][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:043][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:043][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_22
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.38:043][ 67]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.38:044][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:045][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:045][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_23
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.38:045][ 67]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.38:046][ 67]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_18] Waypoint
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_18] Waypoint2
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_18] Waypoint3
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_18] Waypoint4
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_18] Waypoint5
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_19] Waypoint6
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_19] Waypoint7
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_19] Waypoint8
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_19] Waypoint9
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_19] Waypoint10
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_20] Waypoint11
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_20] Waypoint12
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_20] Waypoint13
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_20] Waypoint14
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_20] Waypoint15
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_21] Waypoint5
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_21] Waypoint4
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_21] Waypoint3
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_21] Waypoint2
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [Minion_C_21] Waypoint
+[2017.10.19-02.04.38:227][ 86]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_22] Waypoint10
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_22] Waypoint9
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_22] Waypoint8
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_22] Waypoint7
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_22] Waypoint6
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_23] Waypoint15
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_23] Waypoint14
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_23] Waypoint13
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_23] Waypoint12
+[2017.10.19-02.04.38:228][ 86]LogBlueprintUserMessages: [Minion_C_23] Waypoint11
+[2017.10.19-02.04.39:040][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:040][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_24
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.39:040][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.39:040][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:041][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:041][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_25
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.39:041][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.39:042][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:043][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:043][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_26
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.39:043][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.39:043][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:045][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:045][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_27
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.39:045][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.39:045][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:047][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:047][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_28
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.39:047][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.39:047][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:049][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:049][159]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_29
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.39:049][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.39:049][159]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_24] Waypoint
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_24] Waypoint2
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_24] Waypoint3
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_24] Waypoint4
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_24] Waypoint5
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_25] Waypoint6
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_25] Waypoint7
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_25] Waypoint8
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_25] Waypoint9
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_25] Waypoint10
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_26] Waypoint11
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_26] Waypoint12
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_26] Waypoint13
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_26] Waypoint14
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_26] Waypoint15
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_27] Waypoint5
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_27] Waypoint4
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_27] Waypoint3
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_27] Waypoint2
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_27] Waypoint
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_28] Waypoint10
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_28] Waypoint9
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_28] Waypoint8
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_28] Waypoint7
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [Minion_C_28] Waypoint6
+[2017.10.19-02.04.39:229][177]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.39:230][177]LogBlueprintUserMessages: [Minion_C_29] Waypoint15
+[2017.10.19-02.04.39:230][177]LogBlueprintUserMessages: [Minion_C_29] Waypoint14
+[2017.10.19-02.04.39:230][177]LogBlueprintUserMessages: [Minion_C_29] Waypoint13
+[2017.10.19-02.04.39:230][177]LogBlueprintUserMessages: [Minion_C_29] Waypoint12
+[2017.10.19-02.04.39:230][177]LogBlueprintUserMessages: [Minion_C_29] Waypoint11
+[2017.10.19-02.04.49:036][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:036][106]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_30
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.49:036][106]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.49:036][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:038][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:038][106]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_31
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.49:038][106]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.49:038][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:039][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:039][106]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_32
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.49:040][106]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.49:040][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:041][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:041][106]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_33
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.49:041][106]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.49:041][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:043][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:043][106]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_34
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.49:043][106]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.49:043][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:044][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:044][106]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_35
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.49:045][106]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.49:045][106]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_30] Waypoint
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_30] Waypoint2
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_30] Waypoint3
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_30] Waypoint4
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_30] Waypoint5
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_31] Waypoint6
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_31] Waypoint7
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_31] Waypoint8
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_31] Waypoint9
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_31] Waypoint10
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_32] Waypoint11
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_32] Waypoint12
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_32] Waypoint13
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_32] Waypoint14
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_32] Waypoint15
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_33] Waypoint5
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_33] Waypoint4
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_33] Waypoint3
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_33] Waypoint2
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_33] Waypoint
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_34] Waypoint10
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_34] Waypoint9
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_34] Waypoint8
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_34] Waypoint7
+[2017.10.19-02.04.49:231][124]LogBlueprintUserMessages: [Minion_C_34] Waypoint6
+[2017.10.19-02.04.49:232][124]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.49:232][124]LogBlueprintUserMessages: [Minion_C_35] Waypoint15
+[2017.10.19-02.04.49:232][124]LogBlueprintUserMessages: [Minion_C_35] Waypoint14
+[2017.10.19-02.04.49:232][124]LogBlueprintUserMessages: [Minion_C_35] Waypoint13
+[2017.10.19-02.04.49:232][124]LogBlueprintUserMessages: [Minion_C_35] Waypoint12
+[2017.10.19-02.04.49:232][124]LogBlueprintUserMessages: [Minion_C_35] Waypoint11
+[2017.10.19-02.04.50:038][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:038][201]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_36
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.50:038][201]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.50:038][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:040][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:040][201]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_37
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.50:040][201]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.50:040][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:042][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:042][201]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_38
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.50:042][201]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.50:042][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:043][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:043][201]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_39
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.50:043][201]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.50:043][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:045][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:045][201]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_40
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.50:045][201]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.50:045][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:046][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:046][201]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_41
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.50:047][201]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.50:047][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [Minion_C_36] Waypoint
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [Minion_C_36] Waypoint2
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [Minion_C_36] Waypoint3
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [Minion_C_36] Waypoint4
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [Minion_C_36] Waypoint5
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [Minion_C_37] Waypoint6
+[2017.10.19-02.04.50:230][218]LogBlueprintUserMessages: [Minion_C_37] Waypoint7
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_37] Waypoint8
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_37] Waypoint9
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_37] Waypoint10
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_38] Waypoint11
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_38] Waypoint12
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_38] Waypoint13
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_38] Waypoint14
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_38] Waypoint15
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_39] Waypoint5
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_39] Waypoint4
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_39] Waypoint3
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_39] Waypoint2
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_39] Waypoint
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_40] Waypoint10
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_40] Waypoint9
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_40] Waypoint8
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_40] Waypoint7
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_40] Waypoint6
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_41] Waypoint15
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_41] Waypoint14
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_41] Waypoint13
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_41] Waypoint12
+[2017.10.19-02.04.50:231][218]LogBlueprintUserMessages: [Minion_C_41] Waypoint11
+[2017.10.19-02.04.51:042][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:043][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_42
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.51:043][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.51:043][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:044][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:044][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_43
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.51:044][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.51:044][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:046][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:046][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_44
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.51:046][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.51:046][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:048][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:048][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_45
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.51:048][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.51:048][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:051][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:051][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_46
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.51:051][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.51:051][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:053][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:053][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_47
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.51:053][292]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.51:053][292]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_42] Waypoint
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_42] Waypoint2
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_42] Waypoint3
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_42] Waypoint4
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_42] Waypoint5
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_43] Waypoint6
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_43] Waypoint7
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_43] Waypoint8
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_43] Waypoint9
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_43] Waypoint10
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_44] Waypoint11
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_44] Waypoint12
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_44] Waypoint13
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_44] Waypoint14
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_44] Waypoint15
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.51:239][309]LogBlueprintUserMessages: [Minion_C_45] Waypoint5
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_45] Waypoint4
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_45] Waypoint3
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_45] Waypoint2
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_45] Waypoint
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_46] Waypoint10
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_46] Waypoint9
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_46] Waypoint8
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_46] Waypoint7
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_46] Waypoint6
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_47] Waypoint15
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_47] Waypoint14
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_47] Waypoint13
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_47] Waypoint12
+[2017.10.19-02.04.51:240][309]LogBlueprintUserMessages: [Minion_C_47] Waypoint11
+[2017.10.19-02.04.52:040][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:040][379]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_48
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.52:040][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.52:040][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:041][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:042][379]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_49
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.52:042][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.52:042][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:043][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:043][379]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_50
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.52:044][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.52:044][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:045][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:045][379]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_51
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.52:045][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.52:045][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:047][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:047][379]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_52
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.52:047][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.52:047][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:050][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:051][379]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_53
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.52:051][379]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.52:051][379]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_48] Waypoint
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_48] Waypoint2
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_48] Waypoint3
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_48] Waypoint4
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_48] Waypoint5
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_49] Waypoint6
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_49] Waypoint7
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_49] Waypoint8
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_49] Waypoint9
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_49] Waypoint10
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_50] Waypoint11
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_50] Waypoint12
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_50] Waypoint13
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_50] Waypoint14
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_50] Waypoint15
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_51] Waypoint5
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_51] Waypoint4
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_51] Waypoint3
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_51] Waypoint2
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_51] Waypoint
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_52] Waypoint10
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_52] Waypoint9
+[2017.10.19-02.04.52:236][394]LogBlueprintUserMessages: [Minion_C_52] Waypoint8
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [Minion_C_52] Waypoint7
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [Minion_C_52] Waypoint6
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [Minion_C_53] Waypoint15
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [Minion_C_53] Waypoint14
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [Minion_C_53] Waypoint13
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [Minion_C_53] Waypoint12
+[2017.10.19-02.04.52:237][394]LogBlueprintUserMessages: [Minion_C_53] Waypoint11
+[2017.10.19-02.04.53:044][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:044][458]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_54
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.53:044][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.53:044][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:046][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:046][458]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_55
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.53:046][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.53:046][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:048][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:048][458]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_56
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.53:048][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.53:048][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:051][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:051][458]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_57
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.53:052][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.53:052][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:053][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:053][458]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_58
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.53:053][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.53:054][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:055][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:055][458]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Minion_AICON_C_59
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0222
+[2017.10.19-02.04.53:055][458]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.10.19-02.04.53:055][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_54] Waypoint
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_54] Waypoint2
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_54] Waypoint3
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_54] Waypoint4
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_54] Waypoint5
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_55] Waypoint6
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_55] Waypoint7
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_55] Waypoint8
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_55] Waypoint9
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_55] Waypoint10
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_56] Waypoint11
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_56] Waypoint12
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_56] Waypoint13
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_56] Waypoint14
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_56] Waypoint15
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_57] Waypoint5
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_57] Waypoint4
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_57] Waypoint3
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_57] Waypoint2
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [Minion_C_57] Waypoint
+[2017.10.19-02.04.53:239][472]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_58] Waypoint10
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_58] Waypoint9
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_58] Waypoint8
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_58] Waypoint7
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_58] Waypoint6
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 4
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_59] Waypoint15
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_59] Waypoint14
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_59] Waypoint13
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_59] Waypoint12
+[2017.10.19-02.04.53:240][472]LogBlueprintUserMessages: [Minion_C_59] Waypoint11
+[2017.10.19-02.05.04:759][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.19-02.05.04:878][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.19-02.05.27:488][866]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.19-02.05.27:826][866]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 113 classes and 0 folders.
+[2017.10.19-02.05.29:920][866]LogSlate: Took 0.017974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.19-02.05.30:983][867]LogSlate: Took 0.026142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.19-02.07.43:159][561]LogEditorViewport: Clicking on Actor (LMB): MinionSpawnPoint_C (MinionSpawnPoint)
+[2017.10.19-02.07.49:867][240]LogEditorViewport: Clicking on Actor (LMB): MinionSpawnPoint_C (MinionSpawnPoint2)
+[2017.10.19-02.07.53:176][579]LogEditorViewport: Clicking on Actor (LMB): MinionSpawnPoint_C (MinionSpawnPoint)
+[2017.10.19-02.11.27:347][110]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint6)
+[2017.10.19-02.11.58:546][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.19-02.11.59:439][396]LogEditorViewport: Clicking on Actor (LMB): MinionSpawnPoint_C (MinionSpawnPoint)
+[2017.10.19-02.12.15:216][ 45]LogEditorViewport: Clicking on Actor (LMB): MinionSpawnPoint_C (MinionSpawnPoint)
+[2017.10.19-02.13.19:010][947]LogSavePackage: Save=289.34ms
+[2017.10.19-02.13.19:011][947]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/ThirdPersonExampleMap_Auto13AC3814B4D45A2AD5DAB58A0496492E8.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.10.19-02.13.19:012][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.10.19-02.13.19:036][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.526
+[2017.10.19-02.13.19:036][947]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.526
+[2017.10.19-02.13.19:041][947]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2017.10.19-02.13.19:041][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2017.10.19-02.13.19:089][947]LogSavePackage: Save=45.55ms
+[2017.10.19-02.13.19:089][947]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/ThirdPersonExampleMap_BuiltData_Auto1B216E2024BA111CBF6A1428520D350B3.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2017.10.19-02.13.19:092][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset
+[2017.10.19-02.13.19:093][947]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode] ([1] browsable assets)...
+[2017.10.19-02.13.19:093][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode]
+[2017.10.19-02.13.19:306][947]LogSavePackage: Save=192.29ms
+[2017.10.19-02.13.19:306][947]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/MOBA_AI_GameMode_Auto11CC4A33E47526E00BB217B8F6DBB1829.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto1.uasset'
+[2017.10.19-02.13.19:307][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto1.uasset
+[2017.10.19-02.13.19:307][947]LogFileHelpers: Auto-saving content packages took 0.270
+[2017.10.19-02.14.11:226][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.19-02.14.24:534][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.19-02.14.54:511][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.19-02.17.29:887][659]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint2)
+[2017.10.19-02.17.36:338][345]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint7)
+[2017.10.19-02.17.38:366][556]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint)
+[2017.10.19-02.17.40:255][751]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint6)
+[2017.10.19-02.17.41:128][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.19-02.17.42:666][998]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint11)
+[2017.10.19-02.17.44:856][225]LogEditorViewport: Clicking on Actor (LMB): MinionSpawnPoint_C (MinionSpawnPoint2)
+[2017.10.19-02.27.25:401][509]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MOBAMinionAI
+[2017.10.19-02.27.25:401][509]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.19-02.27.25:401][509]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.10.19-02.27.25:401][509]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.19-02.27.25:401][509]LogTemp: BranchPath = CHRISTOPHER-PC/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = CHRISTOPHER-PC/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.10.19-02.27.25:697][525]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Christopher\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.19-02.29.19:388][682]LogRenderer: Reallocating scene render targets to support 1052x540 Format 10 NumSamples 1 (Frame:1).
+[2017.10.19-02.33.09:533][750]LogEditorTransaction: Undo Create Pin Link
+[2017.10.19-02.33.10:014][755]LogEditorTransaction: Undo Break Pin Links
+[2017.10.19-02.34.14:909][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.030
+[2017.10.19-02.34.14:911][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode] ([1] browsable assets)...
+[2017.10.19-02.34.14:911][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode]
+[2017.10.19-02.34.15:092][ 44]LogSavePackage: Save=167.50ms
+[2017.10.19-02.34.15:092][ 44]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/MOBA_AI_GameMode_Auto2F533DFEC49910F361A6212A62F726D52.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto2.uasset'
+[2017.10.19-02.34.15:094][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto2.uasset
+[2017.10.19-02.34.15:095][ 44]LogFileHelpers: Auto-saving content packages took 0.184
+[2017.10.19-02.35.06:148][462]BlueprintLog: New page: Compile MOBA_AI_GameMode
+[2017.10.19-02.44.15:231][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2017.10.19-02.44.15:232][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode] ([1] browsable assets)...
+[2017.10.19-02.44.15:233][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode]
+[2017.10.19-02.44.15:503][527]LogSavePackage: Save=260.59ms
+[2017.10.19-02.44.15:503][527]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/MOBA_AI_GameMode_Auto3EFA0202B4A6C318B329D64855EBF0EA1.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto3.uasset'
+[2017.10.19-02.44.15:506][527]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto3.uasset
+[2017.10.19-02.44.15:507][527]LogFileHelpers: Auto-saving content packages took 0.275
+[2017.10.19-03.05.37:525][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.19-03.05.38:274][913]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.19-03.07.31:211][509]BlueprintLog: New page: Compile UpdateTarget
+[2017.10.19-03.12.53:956][444]LogSavePackage: Save=172.31ms
+[2017.10.19-03.12.53:956][444]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/MOBA_AI_GameMode611F054240D3C26A5843D580ED62072E.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/Game/MOBA_AI_GameMode.uasset'
+[2017.10.19-03.12.53:974][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/Game/MOBA_AI_GameMode.uasset
+[2017.10.19-03.13.49:112][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.030
+[2017.10.19-03.13.49:114][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MOBA_Minion_AI/AI/Minion_AICON] ([1] browsable assets)...
+[2017.10.19-03.13.49:115][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/MOBA_Minion_AI/AI/Minion_AICON]
+[2017.10.19-03.13.49:193][725]LogSavePackage: Save=67.14ms
+[2017.10.19-03.13.49:193][725]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Minion_AICON_Auto4207E1A7D4A784078047607AD2C349368.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/AI/Minion_AICON_Auto4.uasset'
+[2017.10.19-03.13.49:195][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/AI/Minion_AICON_Auto4.uasset
+[2017.10.19-03.13.49:196][725]LogFileHelpers: Auto-saving content packages took 0.083
+[2017.10.19-03.17.49:593][741]LogSavePackage: Save=72.23ms
+[2017.10.19-03.17.49:593][741]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Minion_AICON3979D3A94E4589C8C189A5B473E59F40.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset'
+[2017.10.19-03.17.49:606][741]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset
+[2017.10.19-03.31.28:322][533]LogEditorTransaction: Undo Comment Changed
+[2017.10.19-03.31.29:736][595]LogEditorTransaction: Undo Comment Changed
+[2017.10.19-03.31.31:271][683]BlueprintLog: New page: Compile Minion
+[2017.10.19-03.31.33:337][760]LogEditorTransaction: Redo Comment Changed
+[2017.10.19-03.31.36:425][922]LogSavePackage: Save=64.76ms
+[2017.10.19-03.31.36:425][922]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Minion0E391DB64D036EAD0468468EBE0AAA01.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/Units/Minion.uasset'
+[2017.10.19-03.31.36:443][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/Units/Minion.uasset
+[2017.10.19-03.31.39:884][109]Cmd: TRANSACTION UNDO
+[2017.10.19-03.31.39:884][109]LogEditorTransaction: Undo Comment Changed
+[2017.10.19-03.31.40:845][152]Cmd: TRANSACTION REDO
+[2017.10.19-03.31.40:845][152]LogEditorTransaction: Redo Comment Changed
+[2017.10.19-03.31.42:438][234]Cmd: TRANSACTION UNDO
+[2017.10.19-03.31.42:439][234]LogEditorTransaction: Undo Comment Changed
+[2017.10.19-03.31.43:397][282]Cmd: TRANSACTION REDO
+[2017.10.19-03.31.43:397][282]LogEditorTransaction: Redo Comment Changed
+[2017.10.19-03.31.46:934][478]BlueprintLog: New page: Compile Minion_AICON
+[2017.10.19-03.31.48:383][538]LogSavePackage: Save=61.94ms
+[2017.10.19-03.31.48:383][538]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Minion_AICONA676B48949DCC549EA7F85B80F0320EE.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset'
+[2017.10.19-03.31.48:387][538]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset
+[2017.10.19-03.56.10:962][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2017.10.19-03.56.10:965][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode] ([1] browsable assets)...
+[2017.10.19-03.56.10:965][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode]
+[2017.10.19-03.56.11:157][744]LogSavePackage: Save=166.71ms
+[2017.10.19-03.56.11:158][744]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/MOBA_AI_GameMode_Auto56BDED06B4E326FDAF82E4B8518266389.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto5.uasset'
+[2017.10.19-03.56.11:160][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Autosaves/Game/MOBA_Minion_AI/Game/MOBA_AI_GameMode_Auto5.uasset
+[2017.10.19-03.56.11:160][744]LogFileHelpers: Auto-saving content packages took 0.197
+[2017.10.19-04.32.51:980][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.19-04.32.52:252][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.19-04.32.52:392][350]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.19-04.32.57:098][448]LogSavePackage: Save=157.99ms
+[2017.10.19-04.32.57:098][448]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/MOBA_AI_GameMode5DF3FAE340488FC2AE95B7A15052A4B9.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/Game/MOBA_AI_GameMode.uasset'
+[2017.10.19-04.32.57:102][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/MOBA_Minion_AI/Game/MOBA_AI_GameMode.uasset
+[2017.10.19-04.33.04:417][448]LogSavePackage: Save=180.83ms
+[2017.10.19-04.33.04:417][448]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/ThirdPersonExampleMapC88AD0EC4EE79BCBCFC40ABCEAB39010.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.19-04.33.04:425][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.19-04.33.04:465][448]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 7.345
+[2017.10.19-04.33.04:544][448]LogSavePackage: Save=74.24ms
+[2017.10.19-04.33.04:544][448]LogSavePackage: Moving '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/ThirdPersonExampleMap_BuiltDataD08DCE5A42161C9528EF0EBEC44D9F3E.tmp' to '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.10.19-04.33.04:549][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.10.19-04.33.04:643][448]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.19-04.33.04:966][449]Cmd: QUIT_EDITOR
+[2017.10.19-04.33.05:148][449]LogExit: Preparing to exit.
+[2017.10.19-04.33.05:975][449]LogDirectoryWatcher: A directory notification for 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/' was aborted.
+[2017.10.19-04.33.06:125][449]LogExit: Editor shut down
+[2017.10.19-04.33.06:164][449]LogExit: Transaction tracking system shut down
+[2017.10.19-04.33.06:434][449]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.19-04.33.06:434][449]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/' was aborted.
+[2017.10.19-04.33.06:434][449]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.19-04.33.06:434][449]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.19-04.33.06:434][449]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.19-04.33.06:718][449]LogExit: Object subsystem successfully closed.
+[2017.10.19-04.33.06:767][449]LogD3D11RHI: Shutdown
+[2017.10.19-04.33.06:767][449]LogD3D11RHI: CleanupD3DDevice
+[2017.10.19-04.33.06:796][449]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.19-04.33.06:842][449]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (540)
+[2017.10.19-04.33.06:843][449]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2017.10.19-04.33.06:843][449]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2017.10.19-04.33.06:845][449]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.10.19-04.33.06:861][449]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2017.10.19-04.33.06:882][449]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.19-04.33.06:882][449]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.19-04.33.06:882][449]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.19-04.33.06:882][449]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.19-04.33.06:887][449]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.19-04.33.06:888][449]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.19-04.33.06:888][449]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.19-04.33.06:888][449]LogDirectoryWatcher: A directory notification for 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/Collections/' was aborted.
+[2017.10.19-04.33.06:889][449]LogDirectoryWatcher: A directory notification for 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Content/Developers/Christopher/Collections/' was aborted.
+[2017.10.19-04.33.06:889][449]LogDirectoryWatcher: A directory notification for 'C:/Users/Christopher/Documents/Y4S1/Capstone/MOBA_Minion_AI-51add8dc1b6463046cecbe0960fa845be3aa0ca1/MOBA_Minion_AI/Saved/Collections/' was aborted.
+[2017.10.19-04.33.06:891][449]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.19-04.33.06:892][449]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.19-04.33.06:893][449]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.19-04.33.06:894][449]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.19-04.33.06:895][449]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.19-04.33.06:895][449]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.19-04.33.06:895][449]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.19-04.33.06:895][449]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.19-04.33.06:895][449]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.19-04.33.07:148][449]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.19-04.33.07:149][449]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.19-04.33.07:149][449]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.19-04.33.07:149][449]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.19-04.33.07:149][449]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.19-04.33.07:149][449]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.19-04.33.07:149][449]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.19-04.33.07:149][449]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.19-04.33.07:213][449]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.19-04.33.07:213][449]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.19-04.33.07:213][449]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.19-04.33.07:213][449]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.19-04.33.07:213][449]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.19-04.33.07:213][449]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.19-04.33.07:214][449]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.19-04.33.07:214][449]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.19-04.33.07:214][449]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.19-04.33.07:214][449]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.19-04.33.07:230][449]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.19-04.33.07:232][449]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.19-04.33.07:413][449]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.19-04.33.07:413][449]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.19-04.33.07:413][449]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.19-04.33.07:413][449]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.19-04.33.07:413][449]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.19-04.33.07:414][449]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.19-04.33.07:416][449]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.19-04.33.07:517][449]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.19-04.33.07:617][449]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.19-04.33.07:617][449]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.19-04.33.07:617][449]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.19-04.33.07:617][449]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.19-04.33.07:617][449]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.19-04.33.07:617][449]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.19-04.33.07:618][449]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.19-04.33.07:618][449]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.19-04.33.07:618][449]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.19-04.33.07:618][449]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.19-04.33.07:618][449]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.19-04.33.07:618][449]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.19-04.33.07:619][449]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.19-04.33.07:628][449]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.19-04.33.07:629][449]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.19-04.33.07:629][449]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.19-04.33.07:629][449]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.19-04.33.07:629][449]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.19-04.33.07:629][449]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.19-04.33.07:629][449]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.19-04.33.07:629][449]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.19-04.33.07:635][449]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.19-04.33.07:735][449]LogDerivedDataCache: Shutdown
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.19-04.33.07:735][449]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.19-04.33.07:736][449]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.19-04.33.07:736][449]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.19-04.33.07:736][449]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.19-04.33.07:736][449]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA33BBC1E-49EB-2DFA-E574-588C6D7C70B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=90f25ba04ce22cfb9e2d11b8357d3d4a%7C08cd79a2e2bf434ba284098852ff0e20%7C6b99b3d0-bd87-494d-8225-3f6dcb859909&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.19-04.33.07:749][449]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.19-04.33.07:751][449]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.19-04.33.07:751][449]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.19-04.33.07:751][449]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.19-04.33.07:751][449]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.19-04.33.07:751][449]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.19-04.33.07:751][449]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.19-04.33.07:751][449]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.19-04.33.07:764][449]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.19-04.33.07:767][449]LogExit: Exiting.
+[2017.10.19-04.33.07:796][449]Log file closed, 10/19/17 00:33:07
